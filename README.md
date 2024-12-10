@@ -19,7 +19,7 @@ Hi, I'm **CHANGMIN JEON**, a passionate **Backend Developer** with expertise in 
 
 
 ## 📖 Tech Stack
-<h4>Frontend</h4>
+<h5>Frontend</h5>
 <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -34,7 +34,7 @@ Hi, I'm **CHANGMIN JEON**, a passionate **Backend Developer** with expertise in 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </span>
 
-<h4>DevOps</h4>
+<h5>DevOps</h5>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -44,7 +44,7 @@ Hi, I'm **CHANGMIN JEON**, a passionate **Backend Developer** with expertise in 
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 </span>
 
-<h4>Tools</h4>
+<h5>Tools</h5>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
