@@ -15,7 +15,9 @@ Hi, I'm **CHANGMIN JEON**, a passionate **Backend Developer** with expertise in 
 
 
 ## 🔥 Experience
+- ShareSpace Project `2024.09 ~ 2024.11`
 - Kyobo DTS `2024.07 - 2024.09`
+- Travel Diary Project `2023.03 ~ 2023.11`
 
 
 ## 📖 Tech Stack
