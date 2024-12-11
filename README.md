@@ -6,7 +6,7 @@ Welcome to my profile! I'm passionate about coding, problem-solving, and buildin
 Hi, I'm **CHANGMIN JEON**, a passionate **Backend Developer** with expertise in building robust and scalable systems.
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)]() -->
-[![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/thereisname)
+[![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@thereisname/posts)
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/thereisname?theme=dark&posts=3)
 
